@@ -1,4 +1,4 @@
-# dicee
+# Dicee
 
 A Random Dicee Generator.
 
