@@ -2,7 +2,7 @@
 
 A Random Dicee Generator.
 
-## Getting Started
+## Description
 This is a Simple Random Dicee Generator App . 
 You can make the die roll at the press of a button.It will generate a random value from 1 to 6.
 With this app in your pocket, you’ll be able to settle any score on the go!
